@@ -1,0 +1,53 @@
+Alta disponibilidade: 
+
+  - SLA 
+  
+  - A alta disponibilidade se concentra em garantir a disponibilidade máxima, independente de interrupções ou eventos que possam ocorrer. 
+
+Escalabilidade: 
+  
+  - Capacidade de ajustar recursos para atender à demanda 
+  
+  - Adição de mais recursos para lidar melhor com o aumento da demanda. 
+  
+  - Não pagar além do necessário pelos serviços 
+  
+  - Se a demanda cair, pode reduzir recursos e diminuir gastos 
+
+Elasticidade: 
+  
+  - Caso houvesse um salto repentino acentuado na demanda, seus recursos implantados poderiam ser expandidos (automaticamente ou manualmente) 
+  
+  - Redução ou aumento horizontal de recursos implantados 
+
+Confiabilidade: 
+
+  - Suporte à infraestrutura confiável e resiliente 
+  
+  - Design descentralizado: A nuvem permite que você tenha recursos implantados em várias regiões do mundo 
+
+  - Escala global 
+
+Previsibilidade: 
+  
+  - Permite que avance com confiança, seja no desempenho ou no custo 
+
+Segurança: 
+  
+  - Ferramentas de segurança que atendem às necessidades dos clientes. 
+  
+  - Segurança de recursos. 
+
+Governança: 
+  
+  - Gerenciamento de recursos e seus padrões. 
+  
+  - A auditoria baseada em nuvem ajuda a sinalizar qualquer recurso que esteja fora de conformidade com seus padrões corporativos e fornece estratégias de mitigação 
+  
+  - Dependendo do modelo operacional da empresa, patches de software e atualizações podem ser aplicados automaticamente, o que ajuda na governança e na segurança 
+
+Gerenciabilidade: 
+  
+  - Capacidade de gerenciamento 
+  
+  - Implantar recursos com base em um modelo pré-configurado, removendo a necessidade de configuração manual 
